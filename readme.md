@@ -1,6 +1,7 @@
-# BattleBackend
+# NickServer 
 
 Welcome to the ogfn Backend! your ogfn backend!!!
+yay
 
 
 ## Features
